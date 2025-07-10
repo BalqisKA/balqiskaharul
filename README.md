@@ -20,7 +20,7 @@
 
 
 [twitter]: https://x.com/BalqisKaharul97
-[linkedin]: https://linkedin.com/in/balqiskaharul
+[linkedin]: https://linkedin.com/in/balqis-kaharul-20a936240/
 
 
 <!--
