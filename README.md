@@ -8,10 +8,14 @@
 - <b>Final Year Project (FYP) Evaluation System/b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 
-<h2>👨‍💻 Popular YouTube Videos</h2>
+<br>
+
+<h2>👨‍💻 Data Analytics Projects</h2>
 
 - <b>Semantic Analysis</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+
+<br>
 
 <h2> 🤳 Connect with me:</h2>
 
