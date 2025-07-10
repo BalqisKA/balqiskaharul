@@ -20,7 +20,8 @@
 
 
 [twitter]: https://x.com/BalqisKaharul97
-[linkedin]: www.linkedin.com/in/balqis-kaharul-20a936240
+[linkedin]: https://linkedin.com/in/balqiskaharul
+
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
