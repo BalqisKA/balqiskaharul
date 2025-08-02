@@ -5,7 +5,7 @@
 
 - <b>Cardiovascular Hub Information System fo Malaysian</b>
   - [Praciting DS & Algos in Python](https://github.com/BalqisKA/cvd_website)
-- <b>Final Year Project (FYP) Evaluation System/b>
+- <b>Final Year Project (FYP) Evaluation System</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 
 <br>
